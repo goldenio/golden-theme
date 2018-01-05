@@ -1,4 +1,4 @@
-#= require jquery.ui.effect-highlight
+#= require jquery-ui/effects/effect-highlight
 #= require chosen-jquery
 
 #= require golden/theme/foundation/bench-util-jquery
